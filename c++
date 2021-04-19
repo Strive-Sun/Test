@@ -1,6 +1,6 @@
-#include <windows.h>
+include <windows.h>
 
-int mainn()
+int main()
 {
   printf("Hello World");
   
@@ -8,6 +8,6 @@ int mainn()
   {
     printf("The num: %d\n, i);
   }
-  
+  printf("Game is over!");
   return 0;
 }
