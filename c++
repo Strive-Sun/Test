@@ -8,6 +8,8 @@ int main()
   {
     printf("The num: %d\n, i);
   }
+  
   printf("Game is over!");
+  printf("Well");
   return 0;
 }
